@@ -169,10 +169,10 @@
                 <h4>MARCELO KOITI SAKAGUCHI</h4>
                 <img src="img/marcelo.jpg" class="img-fluid perfil-img">
                 <p class="perfil-descricao">
-                    Vitor, 28 anos, Itanhaém.
-                    Trabalha na Prefeitura Municipal de Itanhaém, fazendo manutenção no site.
-                    Gosta de Front-End, User Experience e Banco de Dados.
-                    Organizado, comunicativo e animado.
+                    Marcelo, 19 anos, Praia Grande.
+                    Trabalha na Wipro Technologies, desenvolvendo aplicações para o mercado financeiro.
+                    Gosta de Back-End,Java,Cobol.
+                    Responsável, pro-ativo e organizado.
                 </p>
             </div>
 
@@ -419,6 +419,7 @@
                 </div>
             </div>
         </div>
+    
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 

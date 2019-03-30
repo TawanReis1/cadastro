@@ -12,6 +12,27 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Fornecedor</h1>
+        <h2>Adicionar</h2>
+        <form action="index.jsp">
+            Nome:
+            <br><input type="text" name="nome"/>
+            <br>Razão Social
+            <br><input type="text" name="razaoSocial"/>
+            <br>CNPJ
+            <br><input type="text" name="cnpj"/>
+            <br>E-mail
+            <br><input type="text" name="email"/>
+            <br>Telefone
+            <br><input type="text" name="telefone"/>
+            <br>Endereco
+            <br><input type="text" name="endereco"/>
+            
+            <hr/>
+            <h2>Deseja incluir um novo fornecedor?</h2>
+            <input type="submit" name="adicionar" value="Sim"/>
+            <input type="submit" name="adicionar" value="Não"/>
+            
+        </form>
     </body>
 </html>
